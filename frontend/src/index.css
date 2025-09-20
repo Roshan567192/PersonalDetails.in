@@ -1,0 +1,18 @@
+body {
+  background: #69acee;
+  font-family: 'Arial', sans-serif;
+}
+
+.card {
+  border: none;
+}
+
+.form-label {
+  font-weight: 600;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 8px;
+}
